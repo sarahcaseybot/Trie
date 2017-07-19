@@ -15,9 +15,7 @@ Node::Node(int nodeVal){
   this -> nodeVal = nodeVal;
 }
   
-//  Node::Node(int n):nodeval(n), narray(Link::EMPTY){
-//numused = new int[nodeval];
-//}
+
 
 
 

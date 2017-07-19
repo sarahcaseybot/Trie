@@ -2,7 +2,6 @@
 #include "Link.h"
 #include "Node.h"
 //constructors
-//check variable names
 Link::Link(){
   next = '\0';
   nextNode = NULL;
